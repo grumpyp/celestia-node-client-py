@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='celestia_node',
-    version='0.0.1',
+    version='0.0.3',
     author='Patrick Gerard',
     author_email='hallo@patrickgerard.de',
     description='Celestia Node Python SDK',
