@@ -1,4 +1,5 @@
 # Celestia Node RPC SDK
+[![PyPI version](https://badge.fury.io/py/celestia-node.svg)](https://badge.fury.io/py/celestia-node)
 
 This Python SDK provides a convenient way to interact with the [Celestia Node RPC](https://docs.celestia.org/developers/node-tutorial).
 
@@ -20,7 +21,7 @@ https://node-rpc-docs.celestia.org/?version=v0.12.1
 ### Installation
 To install this sdk use the [pip package manager](https://pip.pypa.io/en/stable/):
 ```
-pip install celestia-node-rpc-sdk
+pip install celestia_node
 ```
 
 ### Usage
