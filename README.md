@@ -9,7 +9,7 @@ This Python SDK provides a convenient way to interact with the [Celestia Node RP
 https://node-rpc-docs.celestia.org/?version=v0.12.1
 
 - **Blob**
-- **Das** *(Coming Soon)*
+- **Das**
 - **Fraud** *(Coming Soon)*
 - **Header** *(Coming Soon)*
 - **Node** *(Coming Soon)*
